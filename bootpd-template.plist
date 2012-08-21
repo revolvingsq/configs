@@ -11,8 +11,7 @@
   <key>netboot_enabled</key>
 	<false/>
   <key>relay_enabled</key>
-	<false/>
-	
+	<false/>	
   <key>Subnets</key>
 	<array>
 		<dict>
